@@ -1,6 +1,6 @@
 {
   "name": "brainly.co.id",
-  "version": "1.0.0-brain",
+  "version": "1.0.1-brain",
   "description": "Brainly scrape for gethering information",
   "main": "index.js",
   "module": "index.js",
