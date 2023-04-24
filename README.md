@@ -1,4 +1,4 @@
-# Brainly.co.id
+# www.brainly.co.id
 
 Library to scrape ```www.brainly.co.id```
 
@@ -29,7 +29,7 @@ brainly("nkri").then(res => {
 });
 ```
 
-Or
+or
 
 ```javascript
 import brainly from 'brainly.co.id';
@@ -41,3 +41,16 @@ brainly("nkri").then(res => {
 
 Tips :
 	You can use JSON.stringify() to get string output
+
+    <div align="center">
+  <h2>⭐ Thanks To</h2>
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/defrindr"><img src="https://github.com/defrindr.png" width="100px;" alt="defrindr"/><br /><sub><b>Defri Indra Mahardika</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/FatihArridho"><img src="https://github.com/FatihArridho.png" width="100px;" alt="Fatih Arridho"/><br /><sub><b>Fatih Arridho</b></sub></a><br /></td>
+    </tr>
+  </tbody>
+</table>
+</div>
