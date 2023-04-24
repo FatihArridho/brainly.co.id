@@ -1,0 +1,36 @@
+{
+  "name": "brainly.co.id",
+  "version": "1.0.0-brain",
+  "description": "Brainly scrape for gethering information",
+  "main": "index.js",
+  "module": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FatihArridho/brainly.co.id.git"
+  },
+  "keywords": [
+    "brainly",
+    "scrape",
+    "gath",
+    "information",
+    "scraping",
+    "crawl"
+  ],
+  "author": "Fatih Arridho",
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/FatihArridho/brainly.co.id/issues"
+  },
+  "homepage": "https://github.com/FatihArridho/brainly.co.id#readme",
+  "dependencies": {
+    "request": "2.88.2",
+    "request-promise": "^4.2.6"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.1.3"
+  }
+}
