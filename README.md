@@ -42,7 +42,7 @@ brainly("nkri").then(res => {
 Tips :
 	You can use JSON.stringify() to get string output
 
-    <div align="center">
+
   <h2>⭐ Thanks To</h2>
 
 <table>
@@ -53,4 +53,3 @@ Tips :
     </tr>
   </tbody>
 </table>
-</div>
